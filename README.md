@@ -8,7 +8,7 @@ PRs and feedback are welcomed.
 
 Currently, this adds options for:
 - Ubuntu 24.04 LTS
-- Ubuntu 24.10   
+- Ubuntu 24.10 (The image provided by Canonical is remarkably outdated - would recommend 24.04 instead)
 
 # Getting started
 
