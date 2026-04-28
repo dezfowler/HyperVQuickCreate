@@ -34,7 +34,7 @@
         "hash": "sha256:D53CCE48671403029CB1C4C25510428436118AC920A19CC7DD272506F5B9CD24",
       },
       "thumbnail": {
-        "uri": "https://partner-images.canonical.com/hyper-v/desktop/bionic/release/20190829/ubuntu_thumbnail.jpg",
+        "uri": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_1920/https%3A%2F%2Fubuntu.com%2Fwp-content%2Fuploads%2F1c6c%2FUbuntu-26.04-LTS-Apps.png",
         "hash": "sha256:5703AD8764EC672199F3E29ABC99975716775BB1F30A11836CBB95F5701A3D84",
       },
       "details": [
