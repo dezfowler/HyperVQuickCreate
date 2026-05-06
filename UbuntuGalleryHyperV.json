@@ -21,8 +21,8 @@
         "diskSpace": "1600041774"
       },
       "disk": {
-        "uri": "https://partner-images.canonical.com/hyper-v/desktop/noble/current/ubuntu-noble-hyperv-amd64-ubuntu-desktop-hyperv.vhdx.zip",
-        "hash": "sha256:30418f3952033704707190273788e0790a2a78f889fa4fe31f726fd6d129925a",
+        "uri": "https://partner-images.canonical.com/hyper-v/desktop/noble/20260505/ubuntu-noble-hyperv-amd64-ubuntu-desktop-hyperv.vhdx.zip",
+        "hash": "sha256:b1a08282a0bf99fe3970200e23967845aab005993c3c3b708e9437f9aba3c268",
         "archiveRelativePath": "livecd.ubuntu-desktop-hyperv.vhdx",
       },
       "logo": {
